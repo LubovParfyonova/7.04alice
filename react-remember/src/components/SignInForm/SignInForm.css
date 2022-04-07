@@ -1,0 +1,16 @@
+.form-container {
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 5px 25px;
+}
+
+.validEmail {
+    border: 2px solid green;
+}
+.validEmail {
+    border: 2px solid red;
+}
